@@ -1,0 +1,74 @@
+
+{
+    "host": {
+        "chain": "near",
+        "idKey": "monsieur_ebi.testnet",
+        "color": "w",
+        "username": "Anonymous User"
+    },
+    "description": "Anonymous User vs Anonymous User Sun Oct 16 2022",
+    "moves": [{
+        "color": "w",
+        "piece": "p",
+        "from": "e2",
+        "to": "e4",
+        "flags": "b",
+        "san": "e4"
+    }, {
+        "color": "b",
+        "piece": "p",
+        "from": "d7",
+        "to": "d5",
+        "flags": "b",
+        "san": "d5"
+    }, {
+        "color": "w",
+        "piece": "p",
+        "from": "e4",
+        "to": "d5",
+        "flags": "c",
+        "san": "exd5"
+    }, {
+        "color": "b",
+        "piece": "p",
+        "from": "c7",
+        "to": "c6",
+        "flags": "n",
+        "san": "c6"
+    }, {
+        "color": "w",
+        "piece": "p",
+        "from": "d5",
+        "to": "c6",
+        "flags": "c",
+        "san": "dxc6"
+    }, {
+        "color": "b",
+        "piece": "q",
+        "from": "d8",
+        "to": "d7",
+        "flags": "n",
+        "san": "Qd7"
+    }, {
+        "color": "w",
+        "piece": "p",
+        "from": "c6",
+        "to": "d7",
+        "flags": "c",
+        "san": "cxd7+"
+    }],
+    "fen": "rnb1kbnr/pp1Ppppp/8/8/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 4",
+    "createdAt": {
+        "$date": "2022-10-16T23:04:55.003Z"
+    },
+    "updatedAt": {
+        "$date": "2022-10-16T23:14:53.923Z"
+    },
+    "__v": 7,
+    "guest": {
+        "chain": "near",
+        "idKey": "taridekpen.testnet",
+        "color": "b",
+        "username": "Anonymous User"
+    }
+}
